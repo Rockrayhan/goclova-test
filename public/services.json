@@ -1,0 +1,261 @@
+[
+    {
+        "id": 1,
+        "title": "Custom Web Development",
+        "short_desc": "Tailored web solutions to meet your business needs, ensuring optimal performance and scalability.",
+        "img": "https://eboxman.com/wp-content/uploads/2022/10/3-2.webp",
+        "long_desc": "Custom web development focuses on creating unique, feature-rich, and scalable websites that align with your business goals. From initial concept to final deployment, we ensure the highest quality.",
+        "faqs": [
+            {
+                "question": "What is the difference between a template-based website and a custom website?",
+                "ans": "Template-based websites are quicker and more cost-effective but lack uniqueness. Custom websites are designed from scratch, tailored to your brand, and provide superior flexibility and scalability."
+            },
+            {
+                "question": "How long does it take to build a custom website?",
+                "ans": "The timeline depends on the complexity of your requirements, but typically a custom website takes 4-12 weeks to complete."
+            },
+            {
+                "question": "Can I make changes to my website after it’s live?",
+                "ans": "Yes, our custom websites are designed to be easily updated and scalable for future enhancements."
+            },
+            {
+                "question": "Is custom web development suitable for small businesses?",
+                "ans": "Absolutely! Custom web development helps small businesses establish a unique online presence and grow effectively."
+            }
+        ],
+        "service_steps": [
+            {
+                "title": "Concept & Planning",
+                "details": "Collaborate to define goals, create wireframes, and plan the project timeline."
+            },
+            {
+                "title": "Code Crafting",
+                "details": "Write clean, efficient code to build a robust, high-performing website."
+            },
+            {
+                "title": "Testing & Optimization",
+                "details": "Perform thorough testing to ensure flawless functionality and optimize for speed."
+            },
+            {
+                "title": "Launch & Support",
+                "details": "Deploy the website with ongoing maintenance and updates for long-term success."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Search Engine Optimization (SEO)",
+        "short_desc": "Boost your website's visibility and drive organic traffic with expert SEO strategies.",
+        "img": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/08/seo-guide-for-beginners-62fa60b4b6e52-sej.png",
+        "long_desc": "Our SEO services enhance your website's search engine rankings through keyword optimization, technical improvements, and content strategies to ensure you reach the right audience.",
+        "faqs": [
+            {
+                "question": "What is SEO, and why is it important?",
+                "ans": "SEO improves your website's visibility in search engine results, driving organic traffic and increasing your online presence."
+            },
+            {
+                "question": "How long does it take to see SEO results?",
+                "ans": "SEO results typically take 3-6 months, depending on competition and your website’s current state."
+            },
+            {
+                "question": "Do you provide local SEO services?",
+                "ans": "Yes, we specialize in optimizing your website for local search results to attract customers in your area."
+            },
+            {
+                "question": "Can you guarantee a #1 ranking on Google?",
+                "ans": "No ethical SEO agency can guarantee this, but we strive to achieve the best possible rankings through proven techniques."
+            }
+        ],
+        "service_steps": [
+            {
+                "title": "Website Audit",
+                "details": "Analyze your site for technical, content, and backlink issues."
+            },
+            {
+                "title": "Keyword Research",
+                "details": "Identify high-value keywords relevant to your business."
+            },
+            {
+                "title": "On-Page Optimization",
+                "details": "Optimize titles, meta descriptions, and content for target keywords."
+            },
+            {
+                "title": "Continuous Monitoring",
+                "details": "Track progress and adjust strategies to maintain growth."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Strategy & Digital Marketing",
+        "short_desc": "Transform your digital presence with tailored marketing strategies that drive results.",
+        "img": "https://cdn.pixabay.com/photo/2020/05/12/11/37/digital-marketing-5162711_960_720.jpg",
+        "long_desc": "We craft innovative marketing campaigns tailored to your business, leveraging data-driven strategies to grow your brand and achieve measurable success.",
+        "faqs": [
+            {
+                "question": "What digital marketing services do you offer?",
+                "ans": "We provide social media management, email marketing, PPC campaigns, and content marketing."
+            },
+            {
+                "question": "How do you measure campaign success?",
+                "ans": "We track key metrics such as ROI, click-through rates, engagement, and conversions."
+            },
+            {
+                "question": "Can you create marketing strategies for startups?",
+                "ans": "Absolutely! We specialize in crafting cost-effective, high-impact strategies for startups."
+            },
+            {
+                "question": "Do you handle social media advertising?",
+                "ans": "Yes, we create and manage paid advertising campaigns across major social platforms."
+            }
+        ],
+        "service_steps": [
+            {
+                "title": "Market Research",
+                "details": "Analyze your target audience and competition to define your unique selling points."
+            },
+            {
+                "title": "Strategy Development",
+                "details": "Craft a personalized marketing strategy based on your business goals."
+            },
+            {
+                "title": "Campaign Execution",
+                "details": "Implement campaigns across channels, optimizing for maximum impact."
+            },
+            {
+                "title": "Performance Analysis",
+                "details": "Track and analyze results to refine strategies and ensure continuous growth."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Branding & Communications",
+        "short_desc": "Build a memorable brand identity and connect effectively with your audience.",
+        "img": "https://cdn.pixabay.com/photo/2021/04/21/06/00/branding-6190363_960_720.jpg",
+        "long_desc": "We help you create a consistent, compelling brand identity and communication strategy that resonates with your audience and sets you apart from the competition.",
+        "faqs": [
+            {
+                "question": "What does branding include?",
+                "ans": "Branding includes logo design, visual identity, tone of voice, and overall brand messaging."
+            },
+            {
+                "question": "Can you rebrand an existing business?",
+                "ans": "Yes, we specialize in refreshing and modernizing existing brands."
+            },
+            {
+                "question": "How do you ensure consistent communication?",
+                "ans": "We create clear brand guidelines and communication strategies to ensure consistency."
+            },
+            {
+                "question": "Do you offer packaging design?",
+                "ans": "Yes, we provide packaging design as part of our branding services."
+            }
+        ],
+        "service_steps": [
+            {
+                "title": "Brand Discovery",
+                "details": "Understand your business goals and target audience."
+            },
+            {
+                "title": "Visual Identity Creation",
+                "details": "Design logos, color schemes, and visual elements to represent your brand."
+            },
+            {
+                "title": "Messaging Strategy",
+                "details": "Craft clear and impactful messaging for all platforms."
+            },
+            {
+                "title": "Implementation",
+                "details": "Integrate branding across marketing materials, digital platforms, and beyond."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Resource Augmentation",
+        "short_desc": "Enhance your team with skilled professionals for short or long-term projects.",
+        "img": "https://cdn.pixabay.com/photo/2020/09/14/15/08/collaboration-5566480_960_720.jpg",
+        "long_desc": "Our resource augmentation services provide experienced professionals to work alongside your team, helping you achieve your project goals efficiently.",
+        "faqs": [
+            {
+                "question": "What is resource augmentation?",
+                "ans": "Resource augmentation allows you to hire skilled professionals to support your in-house team on a project basis."
+            },
+            {
+                "question": "What types of professionals do you offer?",
+                "ans": "We provide developers, designers, marketers, and other professionals based on your requirements."
+            },
+            {
+                "question": "Is resource augmentation suitable for startups?",
+                "ans": "Yes, it’s a cost-effective solution for startups needing extra manpower without hiring full-time employees."
+            },
+            {
+                "question": "What is the cost structure for resource augmentation?",
+                "ans": "Pricing depends on the type of professional, project duration, and required expertise."
+            }
+        ],
+        "service_steps": [
+            {
+                "title": "Requirement Analysis",
+                "details": "Understand your project needs and define resource requirements."
+            },
+            {
+                "title": "Talent Matching",
+                "details": "Identify and onboard professionals who fit your needs."
+            },
+            {
+                "title": "Integration",
+                "details": "Seamlessly integrate the resources into your existing team."
+            },
+            {
+                "title": "Performance Monitoring",
+                "details": "Ensure consistent delivery and provide ongoing support."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Video Production & Photography",
+        "short_desc": "Bring your brand to life with professional videos and photography tailored to your vision.",
+        "img": "https://cdn.pixabay.com/photo/2020/08/23/11/18/photographer-5517776_960_720.jpg",
+        "long_desc": "Our video production and photography services help you capture stunning visuals that tell your brand's story. From promotional videos to product photography, we deliver high-quality content that resonates with your audience.",
+        "faqs": [
+            {
+                "question": "What types of videos do you produce?",
+                "ans": "We create promotional videos, explainer videos, event coverage, corporate videos, and more."
+            },
+            {
+                "question": "Do you offer on-location photography services?",
+                "ans": "Yes, we provide both studio and on-location photography to suit your needs."
+            },
+            {
+                "question": "Can you handle post-production editing?",
+                "ans": "Absolutely! We offer full post-production services, including editing, color grading, and sound design."
+            },
+            {
+                "question": "How long does it take to complete a project?",
+                "ans": "Project timelines vary based on complexity but typically range from 2-4 weeks for most video and photography projects."
+            }
+        ],
+        "service_steps": [
+            {
+                "title": "Pre-Production Planning",
+                "details": "Discuss your vision, create storyboards, and plan the shoot schedule."
+            },
+            {
+                "title": "On-Site Production",
+                "details": "Capture high-quality footage and photos using professional equipment."
+            },
+            {
+                "title": "Post-Production",
+                "details": "Edit and enhance visuals to create polished, captivating content."
+            },
+            {
+                "title": "Final Delivery",
+                "details": "Provide the finished product in your desired format with all necessary assets."
+            }
+        ]
+    }
+    
+]

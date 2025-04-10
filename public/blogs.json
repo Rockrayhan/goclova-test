@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Web Development in Our Own Way",
+    "author": "John Doe",
+    "category": "Technology",
+    "img": "https://www.startdesigns.com/wp-content/uploads/2022/06/Future-of-Web-Development-2022.jpg",
+    "featured": false,
+    "desc": [
+      {
+        "header": "Emerging Technologies Shaping the Web",
+        "content": "The future of web development is rapidly evolving with the rise of artificial intelligence, blockchain, and progressive web applications (PWAs). AI-powered chatbots and automation tools are redefining user experiences, while blockchain enhances security and transparency in web transactions. Meanwhile, PWAs combine the best of web and mobile apps, offering seamless experiences across devices."
+      },
+      {
+        "header": "The Rise of No-Code and Low-Code Platforms",
+        "content": "As businesses seek faster development solutions, no-code and low-code platforms have gained popularity. These tools empower non-developers to create websites and applications without extensive programming knowledge. While traditional coding remains essential for complex applications, the accessibility of these platforms democratizes web development, enabling faster innovation and deployment."
+      },
+      {
+        "header": "Sustainability and Performance Optimization",
+        "content": "Modern web development focuses on speed, efficiency, and sustainability. Green hosting solutions, lightweight frameworks, and optimized code contribute to reducing digital carbon footprints. Developers are now prioritizing performance-driven approaches, such as lazy loading, caching, and responsive design, to enhance user experience and improve SEO rankings."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "10 Tips for a Healthy Lifestyle",
+    "author": "Jane Smith",
+    "category": "Health",
+    "img": "https://i0.wp.com/nutriplus.com.bd/wp-content/uploads/2024/04/Path-to-Wellnesss.webp",
+    "featured": true,
+    "desc": [
+      {
+        "header": "Prioritize a Balanced Diet",
+        "content": "Eating a well-balanced diet rich in fruits, vegetables, lean proteins, and whole grains is crucial for overall health. Reducing processed foods, sugars, and unhealthy fats can help maintain energy levels and prevent chronic illnesses like diabetes and heart disease."
+      },
+      {
+        "header": "Stay Active and Exercise Regularly",
+        "content": "Physical activity is essential for both physical and mental well-being. Aim for at least 30 minutes of moderate exercise daily, such as walking, jogging, or yoga. Strength training and flexibility exercises also help maintain mobility and reduce the risk of injuries."
+      },
+      {
+        "header": "Prioritize Mental Well-Being",
+        "content": "Stress management is a key aspect of a healthy lifestyle. Practicing mindfulness, meditation, and deep breathing exercises can reduce anxiety and improve mental clarity. Ensuring adequate sleep and maintaining a strong social support system also contribute to overall well-being."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Traveling the World on a Budget",
+    "author": "Alice Johnson",
+    "category": "Travel",
+    "img": "https://www.vistaresidences.com.ph/assets/travelling-on-budget_condo-living.png",
+    "featured": false,
+    "desc": [
+      {
+        "header": "Plan Ahead and Book Smart",
+        "content": "One of the best ways to save money while traveling is to plan in advance. Booking flights and accommodations early often results in significant discounts. Using budget airlines, off-peak travel seasons, and price comparison websites can help travelers find the best deals."
+      },
+      {
+        "header": "Stay in Affordable Accommodations",
+        "content": "Instead of expensive hotels, consider staying in hostels, guesthouses, or vacation rentals. Many budget travelers also opt for house-sitting or couch-surfing to save on lodging costs. Choosing accommodations with kitchen facilities allows for home-cooked meals, further reducing expenses."
+      },
+      {
+        "header": "Explore Free and Low-Cost Activities",
+        "content": "Many cities offer free attractions, walking tours, and cultural experiences. Visiting local markets, parks, and museums with free entry days can enhance your travel experience without straining your budget. Using public transportation instead of taxis also helps cut down expenses."
+      }
+    ]
+  },
+    {
+      "title": "Mastering the Art of Cooking",
+      "author": "Michael Brown",
+      "category": "Food",
+      "img": "https://via.placeholder.com/300x200",
+      "featured": false,
+      "desc": "A beginner's guide to cooking delicious meals that everyone will love."
+    },
+    {
+      "title": "The Benefits of Yoga and Meditation",
+      "author": "Sophia Williams",
+      "category": "Lifestyle",
+      "img": "https://via.placeholder.com/300x200",
+      "featured": false,
+      "desc": "Unwind and de-stress with yoga and meditation. Learn the benefits and how to get started."
+    },
+    {
+      "title": "How to Start a Successful Blog",
+      "author": "Chris Wilson",
+      "category": "Business",
+      "img": "https://via.placeholder.com/300x200",
+      "featured": false,
+      "desc": "Everything you need to know to start a blog and turn it into a thriving online business."
+    },
+    {
+      "title": "The Rise of Electric Vehicles",
+      "author": "Emma Davis",
+      "category": "Automotive",
+      "img": "https://via.placeholder.com/300x200",
+      "featured": false,
+      "desc": "Discover how electric vehicles are transforming the automotive industry and what it means for the future."
+    },
+    {
+      "title": "The Impact of Social Media on Society",
+      "author": "Daniel Taylor",
+      "category": "Social",
+      "img": "https://via.placeholder.com/300x200",
+      "featured": false,
+      "desc": "Analyze the effects of social media on culture, relationships, and mental health."
+    },
+    {
+      "title": "Top 10 Programming Languages in 2025",
+      "author": "Olivia Martinez",
+      "category": "Technology",
+      "img": "https://via.placeholder.com/300x200",
+      "featured": false,
+      "desc": "A detailed look at the most popular programming languages and why they are dominating the tech world."
+    },
+    {
+      "title": "Investing in Cryptocurrency for Beginners",
+      "author": "Ethan Anderson",
+      "category": "Finance",
+      "img": "https://via.placeholder.com/300x200",
+      "featured": false,
+      "desc": "Learn the basics of cryptocurrency investing and how to get started in this exciting new field."
+    }
+  ]
+  

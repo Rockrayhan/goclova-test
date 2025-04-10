@@ -1,0 +1,86 @@
+/* =====  common css =====  */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .container {
+    @apply mx-auto max-w-screen-xl;
+  } */
+
+  .container {
+    @apply mx-auto px-4;
+    @apply sm:max-w-screen-sm md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl;
+}
+
+
+.center {
+    @apply flex justify-center items-center;
+  }
+
+
+
+
+/* bg */
+
+  .bg-primary{
+    background-color: #1D242B;
+  }
+  .bg-secondary{
+    background-color: #0077C0;
+  }
+  .bg-third{
+    background-color: #C7EEFF;
+  }
+  .bg-forth{
+    background-color: #FAFAFA;
+  }
+
+/* btn */
+  .btn-third{
+    background-color: #C7EEFF;
+  }
+  .btn-forth{
+    background-color: #FAFAFA;
+  }
+  
+  /* text */
+  .text-third{
+    color: #C7EEFF;
+  }
+  .text-forth{
+    color: #FAFAFA;
+  }
+
+
+
+  /* .btn-secondary {
+    background-color: #0077C0 !important;
+  } */
+  @media (max-width: 768px) {
+    .btn-secondary {
+      background-color: #0077C0 !important;
+      border: none !important;
+    }
+    .text-primary{
+      color: #1D242B !important;
+    }
+    .text-secondary{
+      color: #0077C0 !important;
+    }
+    .text-third{
+      color: #C7EEFF !important;
+    }
+    .text-forth{
+      color: #FAFAFA !important;
+    }
+    .bg-secondary{
+      background-color: #0077C0 !important;
+    }
+    .border-secondary {
+      border-color: #0077C0 !important ;
+    }
+
+  }
+  

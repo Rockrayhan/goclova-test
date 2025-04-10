@@ -1,0 +1,182 @@
+/* ========= common  =========*/
+
+body  {
+  overflow-x: hidden !important;
+  font-family: sans-serif;
+}
+
+@media (max-width: 640px) {
+  html {
+    overflow-x: hidden !important;
+  }
+
+}
+
+.active-link {
+  border-bottom: 3px solid #0077C0;
+}
+
+.page-title , .h1 {
+  font-weight: 500;
+  font-size: 48px;
+  letter-spacing: -.02em;
+  margin-bottom: 16px;
+  text-align: center;
+  color: #1D242B;
+}
+
+@media (max-width: 640px) {
+  .page-title, .h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+
+}
+
+
+.section-header {
+  margin-bottom: 50px;
+  text-align: center;
+  max-width: 730px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-title, .h2, .my-h2 {
+  font-size: 40px;
+  line-height: 50px;
+  margin-bottom: 10px;
+  color: #1D242B;
+}
+
+@media (max-width: 640px) {
+  .section-title, .h2 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .section-header{
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+@media (max-width: 640px) {
+  .my-h2 {
+    font-size: 24px;
+    line-height: 34px;
+    margin-bottom: 40px;
+  }
+}
+
+
+
+.section-content {
+  font-size: 16px;
+  line-height: 26px;
+  color: rgba(0, 0, 0, .8)
+}
+
+
+@media (max-width: 640px) {
+  .section-content {
+    font-size: 18px;
+  }
+}
+
+
+
+.h3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -.02em;
+}
+
+.page-header-cumbread {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600px;
+  margin-top: 0;
+  position: relative; /* Ensure the title is positioned on top of the blurred image */
+  z-index: 1;
+}
+
+/* csutom pointer */
+/* .custom-pointer {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: #0077C0;
+  border-radius: 50%;
+  pointer-events: none;
+  transition: width 0.2s ease, height 0.2s ease, background-color 0.1s ease;
+  z-index: 9999;
+}
+
+.custom-pointer.hovered {
+  width: 55px;
+  height: 55px;
+  background-color: #0076c034;
+} */
+
+
+
+/* ======== navbar ======= */
+
+.navbar-brand {
+  font-size: 35px;
+}
+
+.navbar a {
+  font-size: 18px;
+  border-radius: 0 !important;
+}
+
+
+.nav-item {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.nav-item::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -3px; /* Adjust based on border thickness */
+  width: 0;
+  height: 3px;
+  background-color: #0077C0;
+  transition: width 0.3s ease-in-out;
+}
+
+.nav-item:hover::after {
+  width: 100%;
+}
+
+/* ======= services ======= */
+
+.service-card {
+  height: 355px;
+  border-radius: 8px;
+  
+}
+
+/*======== home ========= */
+
+.about-us-img {
+  object-fit: cover;
+  width: 100%;
+  height: 50% !important;
+}
+
+
+/* ======= Case Studies ======= */
+
+.case-studies-page-img {
+  height: 400px;
+
+}
+
+
+
