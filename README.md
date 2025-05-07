@@ -25,7 +25,7 @@ A modern and professional agency website designed to deliver a fast, responsive,
    `git clone https://github.com/Rockrayhan/goclova-test`
 
 2. Navigate to the project directory:
-   `cd goclova-agency-website`
+   `cd goclova-test`
 
 3. Install dependencies:
    `npm install`
